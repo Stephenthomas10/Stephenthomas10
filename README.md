@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm Stephen Thomas!
 
-<!--
-**Stephenthomas10/Stephenthomas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student | 2026 Batch | Machine Learning | AI Research | Cloud Computing Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently building intelligent systems and real-time ML applications.
+- 🧠 Passionate about AI, model fine-tuning, cloud architecture, and solving real-world problems.
+- 🌱 Exploring open-source LLMs, RAG pipelines, and Azure cloud services.
+- 🎯 Mission: To create meaningful AI solutions that make a positive impact.
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python (NumPy, Pandas, AsyncIO, Scikit-learn), SQL, Java, C
+- **Frameworks/Tools:** PyTorch, TensorFlow, Langflow, Azure Databricks, Streamlit
+- **Concepts:** Machine Learning, RAG-based Retrieval, Computer Vision, Cloud Computing
+- **Other Tools:** Git, ServiceNow, Azure Virtual Desktops, Wireshark
+
+---
+
+## 📈 Current Projects
+- ⚡ Fantasy Football Optimizer (ML, AsyncIO, Langflow RAG Integration)
+- ⚡ Real-Time Vehicle Detection System using YOLOv5 and PyTorch
+- ⚡ Data-Driven Analysis of Global Food Wastage
+
+---
+
+## 📚 Certifications
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Security Compliance (SC-900)
+- Kaggle Machine Learning and Python Certifications
+
+---
+
+## 📬 Let's Connect!
+- 🔗 [LinkedIn](https://linkedin.com/in/stephen-thomas-s)
+- 🔗 [GitHub](https://github.com/Stephenthomas10)
