@@ -36,4 +36,4 @@
 
 ## 📬 Let's Connect!
 - 🔗 [LinkedIn](https://linkedin.com/in/stephen-thomas-s)
-- 🔗 [GitHub](https://github.com/Stephenthomas10)
+- 🔗 [Email](stephenthomas@karunya.edu.in)
