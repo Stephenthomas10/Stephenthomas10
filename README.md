@@ -1,140 +1,116 @@
-👋 Hi there, I'm Stephen Thomas
+<!-- ------------------ BANNER ------------------ -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f91d6b29-702b-4f3f-9a70-32c72f3c8b88" width="100%" />
+</p>
 
-🎓 B.Tech Computer Science Engineering | Karunya Institute of Technology & Sciences (2022–2026)
-💼 AI Research Analyst Intern | Flutter Developer | Full-Stack & DevOps Enthusiast
-🔬 LLMs • Flutter Apps • FastAPI • Cloud • ML Pipelines • DevOps • RAG
+<h1 align="center">👋 Hey, I'm <strong>Stephen Thomas</strong></h1>
+<h3 align="center">AI Research • Flutter Developer • Full-Stack & DevOps Engineer</h3>
 
-🚀 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/stephen-thomas-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:stephenthomas@karunya.edu.in"><img src="https://img.shields.io/badge/Email-DB4437?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Stephenthomas10"><img src="https://img.shields.io/badge/GitHub-171717?logo=github&logoColor=white"></a>
+</p>
 
-🔭 Currently building full-stack intelligent systems, combining Flutter, FastAPI, ML, and cloud-native architectures.
+---
 
-⚡ Passionate about AI research, transformer models, tokenization, optimizers, and model architectures.
+## ✨ About Me
 
-🧠 Skilled in model training, RAG pipelines, LLM fine-tuning, and AI-driven automation workflows.
+🎓 **B.Tech Computer Science Engineering — Karunya Institute of Technology & Sciences (2022–2026)**  
+💼 **AI Research Analyst Intern | Flutter Developer | Full-Stack & DevOps Enthusiast**  
+🧠 **LLMs • Flutter Apps • FastAPI • Cloud • ML Pipelines • DevOps • RAG**
 
-☁️ Experienced in Azure, Docker, CI/CD, AVD, Databricks, and ETL for enterprise-grade workloads.
+🚀 I build **full-stack intelligent systems** combining Flutter, FastAPI, ML, and cloud-native architectures.  
+🔥 Passionate about **transformer models**, tokenizers, optimizers, LLM internals, and real-world AI automation.  
+🧪 Skilled in **model training, RAG pipelines, LLM fine-tuning**, and API-driven workflows.  
+☁️ Experienced with **Azure, Docker, Databricks, CI/CD, AVD, ETL pipelines, and testing automation**.  
+📱 Strong in **Flutter UI/UX, REST API integration, state safety, and scalable app design**.  
+🎯 Mission: Build AI + mobile solutions that deliver speed, accuracy, and great user experience.
 
-📱 Strong in Flutter app development, UI/UX, REST API integration, and scalable app structuring.
+---
 
-🎯 Mission: Build real-world AI + mobile solutions that deliver accuracy, performance, and great user experience.
+## 🛠️ Tech Stack
 
-🛠️ Skills
-Programming Languages
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,dart,flutter,fastapi,tensorflow,pytorch" />
+</p>
 
-Python, Java, C++, C, SQL, JavaScript
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,github,git,linux,postman,jenkins" />
+</p>
 
-Frameworks & Tools
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-PyTorch, TensorFlow, LangFlow, FastAPI
+---
 
-Flutter (Web + Mobile), Firebase, SQLite
+## 🚀 Highlighted Projects
 
-Azure Databricks, AVD, Power BI
+### 🟣 **CRED Payment Suite – Refund Tracking System**
+➡️ *Flutter Web + FastAPI + Docker + UUIDv5*  
+✔ Full refund workflow engine  
+✔ Escalation system  
+✔ Analytics dashboard  
+✔ Modern CRED-like UI  
 
-Streamlit, ONNX, OpenCV
+### ⚽ **Fantasy Football Optimizer (2025)**
+➡️ Transformer-based model  
+➡️ RAG + AsyncIO data pipelines  
+➡️ Fast convergence + high accuracy  
 
-Core Concepts
+### 🚗 **Real-Time Vehicle Detection**
+➡️ YOLOv8  
+➡️ ONNX Runtime  
+➡️ 200ms inference  
 
-Machine Learning, Deep Learning
+### 📚 **AI-Powered Study Assistant**
+⭐ *Google × GFG Hackathon — Top 5 out of 608 teams*  
+➡️ RAG + Manim video generation  
+➡️ ASR (Grok API + FFmpeg)  
+➡️ Google Calendar + Fit API integration  
 
-RAG & Retrieval Systems
+---
 
-Transformers, GPT architectures
+## 📊 GitHub Stats
 
-Cloud Computing (Azure)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Stephenthomas10&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenthomas10&layout=compact&theme=tokyonight" />
+</p>
 
-Data Engineering & ETL
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stephenthomas10&theme=react-dark&hide_border=true" />
+</p>
 
-REST API Development
+---
 
-CI/CD, DevOps (GitHub Actions, Jenkins), Docker, Kubernetes (Basics)
+## ⚡ Fun Animated SVGs
 
-Other Tools
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;AI+Research+Engineer;LLM+%7C+RAG+%7C+Transformers;Full+Stack+%26+DevOps+Engineer;Lifelong+Learner+%F0%9F%8E%93">
+</p>
 
-Git, Wireshark, ServiceNow, Jira
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
-Postman, Selenium, TestNG
+---
 
-📈 Current & Major Projects
-🟣 CRED Payment Suite – Full Stack Refunds Workflow
+## 🤝 Let's Connect
 
-Flutter Web + FastAPI + Deterministic IDs + Docker
-(Professional-grade project demonstrating UI, workflow, backend logic)
+📩 **Email:**  
+**stephenthomas@karunya.edu.in**
 
-⚡ Fantasy Football Optimizer (RAG + ML)
+🔗 **LinkedIn:**  
+https://linkedin.com/in/stephen-thomas-s
 
-AsyncIO pipelines
+💻 **GitHub:**  
+https://github.com/Stephenthomas10
 
-Transformer-based meta-learning
+---
 
-LangFlow RAG integration
-
-Prediction engine with real-time updates
-
-🚗 Real-Time Vehicle Detection System
-
-YOLOv8/YOLOv5
-
-ONNX optimization
-
-Sub-200ms inference
-
-🌍 Global Food Wastage Analysis (Data Science)
-
-Regression + clustering
-
-Power BI interactive dashboards
-
-5M+ record analytics
-
-🤖 AI-Powered Study Assistant (Hackathon Build)
-
-RAG (LangChain + ChromaDB + Gemma 7B)
-
-Real-time ASR (Grok API + FFmpeg)
-
-Auto video generation (Manim)
-
-Google Calendar + Fit API integration
-
-📚 Certifications
-
-Microsoft Certified: Azure Fundamentals (AZ-900)
-
-Microsoft Certified: Security, Compliance & Identity (SC-900)
-
-MongoDB Developer & Admin
-
-NPTEL – Cloud Computing
-
-Kaggle – ML & Python
-
-🏆 Achievements
-
-🥇 5th place — Google × GeeksforGeeks Karunya Hackathon (608 teams / 2000+ participants)
-
-Built a full AI-powered platform integrating RAG, ASR, video generation, and multi-agent logic.
-
-📱 Flutter Projects Covered (Academic + Personal)
-
-Library Management System (Firestore)
-
-SQLite Bank Account Manager
-
-Manual Login System (Firestore Auth Logic)
-
-Budget & Loan Calculators
-
-Dynamic ListView + Custom Widgets
-
-Flutter Web Apps + API Integration
-
-CRED Refund UI Replica (Full Stack)
-
-📬 Let's Connect!
-
-🔗 LinkedIn: https://linkedin.com/in/stephen-thomas-s
-
-📧 Email: stephenthomas@karunya.edu.in
-
-🧑‍💻 GitHub: https://github.com/Stephenthomas10
+<p align="center"><strong>⭐ If you like my work, consider giving my repositories a star!</strong></p>
